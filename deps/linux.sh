@@ -39,6 +39,8 @@ pacman -Syu --noconfirm \
 		ninja \
 		nlohmann-json \
 		patchelf \
+		pulseaudio \
+		pulseaudio-alsa \
 		python-pip \
 		qt6-tools \
 		qt6-wayland \
